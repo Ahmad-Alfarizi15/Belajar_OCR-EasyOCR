@@ -77,7 +77,7 @@ OCR-EasyOCR-GUI/
 
 ├── contoh-gambar/ # File gambar untuk uji OCR
 
-│ └── sample_text.jpg
+│ └── image_tes.jpg
 
 ---
 
